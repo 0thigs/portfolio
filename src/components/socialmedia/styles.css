@@ -1,5 +1,5 @@
 .media-container {
-  width: max-content;
+  width: 100%;
   background: rgba(24, 24, 24, 0.35);
   box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
   backdrop-filter: blur(10.5px);
@@ -32,4 +32,8 @@
   font-size: 25px;
   font-family: "Rubik", sans-serif;
   color: #fff;
+}
+
+@media (max-width: 1150px) {
+
 }

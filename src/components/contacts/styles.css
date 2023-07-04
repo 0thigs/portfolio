@@ -39,10 +39,10 @@
 }
 
 .social-medias {
-    display: flex;
-    justify-content: space-around;
-    margin: 100px;
-    height: 100%;
+  display: flex;
+  justify-content: space-around;
+  margin: 100px;
+  height: 100%;
 }
 
 @keyframes animationBackground {
@@ -54,5 +54,12 @@
   }
   100% {
     background-position: 0% 50%;
+  }
+}
+
+@media (max-width: 1150px) {
+  .social-medias {
+    flex-wrap: wrap;
+    gap: 20px;
   }
 }

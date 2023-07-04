@@ -1,5 +1,5 @@
 .card-project {
-  height: 379px;
+  height: 380px;
   width: 300px;
   background: grey;
   border-radius: 10px;
@@ -10,8 +10,6 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  position: relative;
-  margin: 30px;
   border: solid 1px rgb(148, 148, 148);
   cursor: pointer;
 }

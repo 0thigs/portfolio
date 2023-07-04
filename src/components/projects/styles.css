@@ -34,4 +34,16 @@ a {
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
+    gap: 30px;
+    margin-bottom: 20px;
+}
+
+@media (max-width: 1150px) {
+    .projects-cont {
+        padding: 0px;
+    }
+
+    .project-title {
+        font-size: 30px;
+    }
 }
