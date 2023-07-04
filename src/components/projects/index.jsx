@@ -4,7 +4,7 @@ import './styles.css'
 
 function projects() {
   return (
-    <div className='projects-cont'>
+    <div className='projects-cont' id="projects-id">
       <div className="title">
         <a href="https://github.com/0thigs" target={"_blank"}>
           <h1 className='project-title'>Meus Projetos</h1>

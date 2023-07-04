@@ -13,9 +13,9 @@ function header() {
             <h1><span>T</span>hiago <span>M</span>artins</h1>
         </div>
         <div className='routes'>
-            <a className='aboutlink' href="">Sobre Mim</a>
-            <a className='aboutlink' href="//#region projects-cont">Projetos</a>
-            <a className='aboutlink' href="">Contatos</a>
+            <a className='aboutlink' href="#about-me">Sobre Mim</a>
+            <a className='aboutlink' href="#projects-id">Projetos</a>
+            <a className='aboutlink' href="#medias">Contatos</a>
         </div>
     </header>
   );
