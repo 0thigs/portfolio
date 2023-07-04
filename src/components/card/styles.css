@@ -38,3 +38,16 @@
     font-family: 'Inconsolata', monospace;
 }
 
+@media (max-width: 1150px) {
+    .aboutMe-cont {
+        width: auto;
+        height: auto;
+        padding: 0;
+        margin: 10px;
+    }
+
+    .card {
+        width: 100%;
+        height: auto;
+    }
+}

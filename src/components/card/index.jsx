@@ -4,7 +4,7 @@ import './styles.css'
 
 function Card() {
   return (
-        <div className="aboutMe-cont">
+        <div className="aboutMe-cont" id='about-me'>
           <div className="card">
             <h1>Front-end developer</h1>
             <div className='AboutMe-text'>
