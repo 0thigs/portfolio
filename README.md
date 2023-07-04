@@ -46,10 +46,8 @@ Some Information:
 - **CSS FlexBox**
 - **Structuring of a page with HTML**
 
----
+---⚠️
 
-#### Obs ⚠️
-
-The page of Portfolio **ISN'T** responsive **YET**.
+### The page of Portfolio **IS** responsive.
 
 
